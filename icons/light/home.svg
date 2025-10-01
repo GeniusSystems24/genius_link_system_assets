@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="36" viewBox="0 0 42 36">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3079d6"/>
+      <stop offset="1" stop-color="#297cd2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="1.894" x2="0.518" y2="-0.529" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fee100"/>
+      <stop offset="1" stop-color="#f39f16"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-5" y1="0" x2="0.5" y2="1.829" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-6" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d59b3"/>
+      <stop offset="1" stop-color="#195bbc"/>
+    </linearGradient>
+  </defs>
+  <g id="home" transform="translate(-3 -6)">
+    <path id="Path_96" data-name="Path 96" d="M5,19H43V38H5Z" fill="#e6e6e6"/>
+    <path id="Path_97" data-name="Path 97" d="M5,38H43v2a2,2,0,0,1-2,2H7a2,2,0,0,1-2-2Z" fill="#beb8b8"/>
+    <path id="Path_98" data-name="Path 98" d="M27,25H38V38H27Z" fill="url(#linear-gradient)"/>
+    <path id="Path_99" data-name="Path 99" d="M10,25H22v9H10Z" fill="url(#linear-gradient)"/>
+    <path id="Path_100" data-name="Path 100" d="M41,6H7A2.006,2.006,0,0,0,5,8v2H43V8A2.006,2.006,0,0,0,41,6Z" fill="url(#linear-gradient-3)"/>
+    <path id="Path_101" data-name="Path 101" d="M42,16H6L3,19v1a2,2,0,0,0,2,2H43a2,2,0,0,0,2-2V19Z" fill="url(#linear-gradient-4)"/>
+    <path id="Path_102" data-name="Path 102" d="M43,10H5L3,19H45Z" fill="url(#linear-gradient-5)"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="11" height="4" transform="translate(27 38)" fill="url(#linear-gradient-6)"/>
+  </g>
+</svg>
