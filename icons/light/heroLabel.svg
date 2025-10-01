@@ -11,10 +11,8 @@
     <g id="Group_42" data-name="Group 42" transform="translate(0 -1.191)">
       <text id="نظام_التحكم_المحاسبي" data-name="نظام التحكم المحاسبي" transform="translate(613 252)" fill="#6b2dd4" font-size="24" font-family="GESSTwoBold-Bold, GE SS Two" font-weight="700"><tspan x="0" y="0">نظام التحكم المحاسبي</tspan></text>
       <g id="Group_41" data-name="Group 41">
-        <text id="شامل_تقني_ذكي" data-name="شامل , تقني ,ذكي" transform="translate(760 277)" fill="#6b2cd4" stroke="#6b2dd4" stroke-linecap="round" stroke-width="1" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoBold-Bold, GE SS Two">شامل , تقني ,ذ</tspan></text>
-        <text id="شامل_تقني_ذكي-2" data-name="شامل , تقني ,ذكي" transform="translate(760 277)" fill="#b0adff" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoBold-Bold, GE SS Two">شامل , تقني ,ذ</tspan></text>
-        <rect id="Rectangle_81" data-name="Rectangle 81" width="143" height="4" rx="2" transform="translate(614 273)" fill="#6b2dd4" stroke="#6b2dd4" stroke-width="1"/>
-        <rect id="Rectangle_82" data-name="Rectangle 82" width="143" height="4" rx="2" transform="translate(614 273)" fill="#b0adff"/>
+        <text id="شامل_تقني_ذكي" data-name="شامل , تقني , ذكي" transform="translate(757 277)" fill="#b0adff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoMedium-Medium, GE SS Two" font-weight="500">شامل , تقني , ذ</tspan></text>
+        <rect id="Rectangle_82" data-name="Rectangle 82" width="140" height="4" rx="2" transform="translate(614 273)" fill="#b0adff"/>
       </g>
     </g>
   </g>

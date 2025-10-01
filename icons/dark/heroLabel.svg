@@ -14,7 +14,7 @@
     </linearGradient>
   </defs>
   <g id="heroLabel" transform="translate(-613 -210)">
-    <g id="accountingSystemLogo" transform="translate(890.045 207)">
+    <g id="heroAccountingSystemLogo" transform="translate(890.045 207)">
       <path id="Path_561" data-name="Path 561" d="M5.646,12.161A6.285,6.285,0,0,0,5,14.92V57.506a6.313,6.313,0,0,0,3.373,5.587L41.062,80.3a8.409,8.409,0,0,0,3.92.968v-48.4Z" transform="translate(0 10.117)" fill="#8a75e5"/>
       <path id="Path_562" data-name="Path 562" d="M24,32.866v48.4a8.409,8.409,0,0,0,3.92-.968L60.61,63.093a6.313,6.313,0,0,0,3.373-5.587V14.92a6.285,6.285,0,0,0-.646-2.759Z" transform="translate(20.983 10.117)" fill="#6e4cd4"/>
       <path id="Path_563" data-name="Path 563" d="M44.644,42.983l39.337-20.7a6.294,6.294,0,0,0-2.965-2.946L48.246,3.81a8.425,8.425,0,0,0-7.207,0L8.272,19.332a6.313,6.313,0,0,0-2.965,2.946Z" transform="translate(0.339 0)" fill="#b0adff"/>
@@ -25,10 +25,8 @@
     <g id="Group_42" data-name="Group 42" transform="translate(0 -2)">
       <text id="نظام_التحكم_المحاسبي" data-name="نظام التحكم المحاسبي" transform="translate(613 252)" fill="#b0adff" font-size="24" font-family="GESSTwoBold-Bold, GE SS Two" font-weight="700"><tspan x="0" y="0">نظام التحكم المحاسبي</tspan></text>
       <g id="Group_41" data-name="Group 41">
-        <text id="شامل_تقني_ذكي" data-name="شامل , تقني ,ذكي" transform="translate(760 277)" fill="#6b2cd4" stroke="#b0adff" stroke-linecap="round" stroke-width="1" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoBold-Bold, GE SS Two">شامل , تقني ,ذ</tspan></text>
-        <text id="شامل_تقني_ذكي-2" data-name="شامل , تقني ,ذكي" transform="translate(760 277)" fill="#6b2cd4" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoBold-Bold, GE SS Two">شامل , تقني ,ذ</tspan></text>
-        <rect id="Rectangle_81" data-name="Rectangle 81" width="143" height="4" rx="2" transform="translate(614 273)" fill="#6b2cd4" stroke="#b0adff" stroke-width="1"/>
-        <rect id="Rectangle_83" data-name="Rectangle 83" width="143" height="4" rx="2" transform="translate(614 273)" fill="#6b2cd4"/>
+        <text id="شامل_تقني_ذكي" data-name="شامل , تقني , ذكي" transform="translate(757 277)" fill="#6b2cd4" font-size="14" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">,</tspan><tspan y="0">,</tspan><tspan y="0" font-family="GESSTwoBold-Bold, GE SS Two">شامل , تقني , ذ</tspan></text>
+        <rect id="Rectangle_83" data-name="Rectangle 83" width="139" height="4" rx="2" transform="translate(614 273)" fill="#6b2cd4"/>
       </g>
     </g>
   </g>
